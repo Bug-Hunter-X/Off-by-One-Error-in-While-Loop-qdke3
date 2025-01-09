@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in a C while loop.  The `bug.c` file contains the erroneous code, while `bugSolution.c` provides the corrected version. This is a simple example to illustrate a subtle but prevalent error in programming.

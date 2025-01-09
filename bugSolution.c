@@ -1,0 +1,8 @@
+int main() {
+  int i = 1;
+  while (i < 11) { // Corrected condition
+    printf("%d\n", i);
+    i++;
+  }
+  return 0;
+}
